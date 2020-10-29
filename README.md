@@ -5,3 +5,5 @@
 
 ## A little about me..
 I'm an **Undergraduate Student [@Vanderbilt University](https://www.vanderbilt.edu/)** pursuing a dual degree in Computer Science and Economics. I'm super passionate about Computer Science and I love to bring new ideas to life through code! I'm always open to new ideas so feel free to contact me about anything!
+
+[![Spotify](https://github-spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/daniel442li)
