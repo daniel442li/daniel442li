@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-email-B22222?style=flat-square)](mailto:daniel442li@gmail.com)
 
 ## A little about me.. 📚
-I'm an **Undergraduate Student [@Vanderbilt University](https://www.vanderbilt.edu/)** pursuing a dual degree in Computer Science. I'm super passionate about Computer Science and I love to bring new ideas to life through code! I'm always open to new ideas so feel free to contact me about anything!
+I'm an **Undergraduate Student [@Vanderbilt University](https://www.vanderbilt.edu/)** pursuing a degree in ~~Computer Science~~ HOD. I'm super passionate about ~~Computer Science~~ HOD and I love to bring new ideas to life through ~~code~~ networking! I'm always open to new ideas so feel free to contact me about anything!
 
 ## What I'm listening to! 🎵
 [![Spotify](https://github-spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/daniel442li)
